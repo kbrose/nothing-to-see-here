@@ -1,0 +1,14 @@
+body{
+  margin:40px auto;
+  max-width:650px;
+  line-height:1.6;
+  font-size:22px;
+  color:#11f0ff;
+  padding:0 10px;
+  background-image: url(http://chrisglass.com/album/wp-content/uploads/2011/06/0503-buffalo-plaid.jpg);
+  /*background-color: #ff3333;*/
+}
+h1,h2,h3{
+  line-height:1.2;
+  font: fette-fraktur;
+}
